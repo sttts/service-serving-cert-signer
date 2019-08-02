@@ -31,7 +31,7 @@ items:
     name: openshift-service-cert-signer-operator-config
   data:
     operator-config.yaml: |
-      apiVersion: operator.openshift.io/v1alpha1
+      apiVersion: operator.openshift.io/v1
       kind: GenericOperatorConfig
 
 - apiVersion: apps/v1
